@@ -65,7 +65,7 @@ app/
 
 ### Project Folder Structure
 
-![Nuxt Project Structure](screenshots/projectstructure_activity2.png)
+![Nuxt Project Structure](screenshots/projectstructure_act2.png)
 
 ## Installation and Setup
 
