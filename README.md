@@ -63,6 +63,10 @@ app/
 
 ![Student Directory](screenshots/students.png)
 
+### Project Folder Structure
+
+![Nuxt Project Structure](screenshots/projectstructure_activity2.png)
+
 ## Installation and Setup
 
 Install dependencies:
